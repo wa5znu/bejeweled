@@ -21,6 +21,7 @@ Experiment space for 01space ESP32 sbc with 5x5 LED pixel display.
 
 ## Development
 - https://micropython.org/download/esp32c3-usb/ # esp32c3-usb-20220725-unstable-v1.19.1-209-g0c45a28d2.bin
+- https://github.com/micropython/micropython/blob/master/drivers/neopixel/neopixel.py
 - https://bigl.es/tooling-tuesday-a-m-p-y/ # not yet tried
 
 ## Examples
